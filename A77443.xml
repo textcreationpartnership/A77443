@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe narration of the carriage and successe of the English affaires, in the hands of the commissioners for Scotland</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77443</idno>
+            <idno type="STC">Wing B4607A</idno>
+            <idno type="STC">ESTC R232459</idno>
+            <idno type="EEBO-CITATION">99896677</idno>
+            <idno type="PROQUEST">99896677</idno>
+            <idno type="VID">137578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137578)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2421:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe narration of the carriage and successe of the English affaires, in the hands of the commissioners for Scotland</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Samuel Gellibrand, at the Brazen Serpent in Pauls Church-yard,</publisher>
+                  <pubPlace>[Printed at London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:137578:1"/>
+            <head>A Briefe NARRATION OF THE Carriage and Succeſſe OF THE <hi>ENGLISH AFFAIRES,</hi> in the hands of the COMMISSIONERS FOR SCOTLAND.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the love and wiſedome of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> foreſaw that the Malignant humors of this Church and Kingdome, were very unlikely if not impoſſible to be removed without ſome <hi>Northern</hi> Phyſick and their reſolution, and neceſſity had wrought through thoſe manifold dif<g ref="char:EOLhyphen"/>ficulties
+<pb n="2" facs="tcp:137578:2"/>and oppoſitions which were continually made to the calling in their aſſiſtance; You remember they appointed Commiſſioners, Lords, and Commons, fur<g ref="char:EOLhyphen"/>niſhed with Inſtructions, to the better expediting ſo weighty an affaire, and joyned two Miniſters of good worth and ability to be aſſiſtant to them in any thing that might concerne the Eccleſiaſticall part of the Negotiation; who undertooke their journey from <hi>London, Iuly</hi> 20. and lay at <hi>Graves-end</hi> to 22. From thence came to <hi>Yarmouth,</hi> where they were ſtop'd two or three dayes by contrary winds, but were by Gods providence releaſed, <hi>Auguſt</hi> 1. and arrived at <hi>Leith, Auguſt</hi> 7. Where they were nobly and courteouſly re<g ref="char:EOLhyphen"/>ceived by the Earle of <hi>Lindſey,</hi> and Sir <hi>Archibald Iohn<g ref="char:EOLhyphen"/>ſton,</hi> who conveyed them from thence to <hi>Edenburgh</hi> that night, where they received all reſpect due to their perſons and employment; But a little time ſerved for complement, when a buſineſſe of no leſſe conſe<g ref="char:EOLhyphen"/>quence quence then the preſervation of Religion and li<g ref="char:EOLhyphen"/>berty in three Kingdomes was to bee propoun<g ref="char:EOLhyphen"/>ded; They made therefore ſpeedy addreſſes to the Aſſembly and convention of Eſtates, who reſpe<g ref="char:EOLhyphen"/>ctively appointed Committees to treat with them of what they had in command from the <hi>Parliament</hi> of <hi>England;</hi> Our Commiſſioners according to their Inſtructions preſſed upon them a firme Union and ſpeedy aſſiſtance, a good leſſon taught us by ill maſters, the Papiſts and Prelates, who are incorporate to the danger of Proteſtant Religion and Civill Liberty: And though they omitted no time, yet when by Mr <hi>Robert Meldrum</hi> a faithfull Agent, they received the ſad letters from <hi>England</hi> of the ſurrender of <hi>Briſtoll,</hi> with the cau<g ref="char:EOLhyphen"/>ſes
+<pb n="3" facs="tcp:137578:2"/>and conſequents, they thought fit to adde double diligence, and accordingly with more earneſtneſſe they applyed themſelves. The Aſſembly and Convention, equally ſympathizing that condition, though the beſt meanes for the accompliſhing and expediting this uni<g ref="char:EOLhyphen"/>on and aſſiſtance, to be a ſolemne mutuall Covenant into which both Nations ſhould enter; and therefore offered that one might be drawne by the mutuall appro<g ref="char:EOLhyphen"/>bation of the Engliſh Commiſſioners, and the Scottiſh Committees, which was accordingly done <hi>Auguſt.</hi> 15. Which though at firſt it ſeemed a hard morſell, yet it pleaſed God to frame the ſpirits of them that were employed, to that Chriſtian condeſcenſion and ſelfe-deniall, (which God uſually makes the foundation of every great work) that thoſe rubs were quickly removed and the forme agreed on that night, which ought not to be attributed to any ſlightneſſe or ſuddenneſſe in a matter of ſo great concernment; but to their diligence and apprehenſion of the preſent neceſſity of the buſi<g ref="char:EOLhyphen"/>neſſe. And let none wonder that this way of Chriſtian Aſſociation was pitched upon, which though at the firſt view it ſpeaks delay, yet it really meanes expedi<g ref="char:EOLhyphen"/>tion; in that that prudent Nation hath experience, that they ſhall be able, upon a mutuall conſent thereto, to doe more in a week toward the accompliſhment of our deſires, then in a month without it, as their expe<g ref="char:EOLhyphen"/>rience in their late troubles made apparent; where God did miraculouſly bleſſe that Nation in this way. And further, it cannot be thought unfit that ſo religi<g ref="char:EOLhyphen"/>ous a work ſhould have a religious foundation, nor unreaſonable, that when the thing to be undertaken is ſo full of difficulty and hazard, the undertakers ſhould
+<pb n="4" facs="tcp:137578:3"/>bee obliged in the moſt ſtrict and inviolable bands, eſpecially in this revolting and backſliding age: and our advantage, and the advantage of the Cauſe cannot be ſmall, thereby conſidering that after this mutuall obligement, we have not only an aſſurance of a preſent auxiliary, but at all times of whatſoever the power and prudence of that Nation can contribute to the main<g ref="char:EOLhyphen"/>tenance of Religion and Liberty. The Covenant be<g ref="char:EOLhyphen"/>ing upon theſe o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the like grounds agreed to, it was propounded to the Aſſembly by the Reverend Mr <hi>Alex<g ref="char:EOLhyphen"/>ander Henderſon</hi> the Moderator, who carried the buſi<g ref="char:EOLhyphen"/>neſſe of that day with ſingular diſcretion and affection, and after a little demurre caſt in by the Kings Com<g ref="char:EOLhyphen"/>miſſioner, (which gave occaſion to the mention, and ſo to the deniall, of a negative voice to his Majeſty in that Aſſembly,) the Noblemen and Miniſters were re<g ref="char:EOLhyphen"/>quired to give their reſolutions concerning it: and here I muſt beg excuſe, neither mine nor any pen is able to reach that abundant alacrity and Chriſtian af<g ref="char:EOLhyphen"/>fection wherewith their ſeverall votes were delivered for the affirmative, without any contradiction but what was mentioned. And though the thing it ſelfe, <hi>ſcil.</hi> the paſſing ſuch a Covenant, be of moment, yet I confeſſe the circumſtances of it wrought more upon me, even thoſe impreſſions which I hope were made by the ſame ſpirit that guided them; ſo that I ſhould not doubt to ſay, the ſpeciall hand of God was in the buſineſſe: and unleſſe we be wanting to our ſelves, I hope we may reap in joy what they ſowed in teares, and that the work of that day, though it may and muſt, as every great work in which God delights to be moſt ſeen, receive ſeveral checks &amp; interruptions, wil not be quaſhd,
+<pb n="5" facs="tcp:137578:3"/>will reach <hi>Spaine</hi> and <hi>Rome</hi> it ſelfe in due time. And as I am certainly informed, by (a perſon whom, for ho<g ref="char:EOLhyphen"/>nour ſake, in regard of his faithfull induſtry in the cauſe of God I mention) Sir <hi>Archibald Iohnſton,</hi> at the Con<g ref="char:EOLhyphen"/>vention of Eſtates it received the like unanimous and affectionate approbation that ſame might, who likewiſe backed it with the draught of a Proclamation to put the whole Kingdome in a poſture of defence, and com<g ref="char:EOLhyphen"/>manding them to provide themſelves of Armes, and to be ready at the time and place appointed them. And thus this memorable 17 of <hi>Auguſt</hi> ended; on the 18. it was diſpatched by a Meſſenger, to whom the Commiſ<g ref="char:EOLhyphen"/>ſioners gave credite for <hi>England,</hi> and was brought hither, <hi>Aug.</hi> 25. and preſented to the <hi>Parliament, Au<g ref="char:EOLhyphen"/>guſt</hi> 26. And thus is your own buſineſſe brought to your own doores, where I hope it will not long lie, though I cannot doubt but it will meet with manifold oppoſition in regard that the Popiſh and Prelaticall faction, and men that are ſo deeply affraid of the Word of God and a Government according to it, know that though they may cheaply contemne Engliſh Votes and Vowes, which they ſee many among us who yet challenge titles of honour, can diſpence with; yet a Scottiſh Covenant carries ſtrength and reſolution with it, and hath already proved fatall to the Hierarchy. For my own part I will not diſſemble my apprehenſions in this buſineſſe, and they are theſe, That though wee are extreame unhappy, that our Nation ſhould have ſo much corruption as that by its naturall ſtrength it could not work it out, and that ſo many among us ſhould bee ſo induſtrious in making a grave for their own Religion and Liberty, which yet may prove their own, and this their Epitaph:
+<q xml:lang="lat">
+                  <pb n="6" facs="tcp:137578:4"/> Hic jacent &amp; jaceant ſine ſpe reſurgendi Libertatis, tam Chriſtianae, quam Civilis.</q>
+            </p>
+            <p>Yet we are happy that we have met with friends, who ſo cordially reſent our dangers and miſeries, and may bee ſo fit a counterpoiſe to the <hi>French, Spanyards, Walloons, Geball, Ammon</hi> and <hi>Amalek,</hi> that are re<g ref="char:EOLhyphen"/>ceived amongſt us, and confederate againſt us. Let not any mans thoughts murmure when I ſay Cordiall re<g ref="char:EOLhyphen"/>ſentment, I confeſſe, and doe this publike penance, that I went with a prejudice, and expected the fullfilling of my apprehenſions as much as my deſires, but finde my ſelfe happily deceived; for though They do as e<g ref="char:EOLhyphen"/>very wiſe man will, take in their own intereſt, and after conſcience hath had its due and ſupreame work, make uſe of their beſt prudence for the compaſſing lawfull ends; yet I am perſwaded that God and Religion and true brotherly affection to this Nation, have the upper hand in their thoughts and undertakings for this buſi<g ref="char:EOLhyphen"/>neſſe: And God hath ſeemed to frame them as thoſe fit inſtruments which ſhall begin to execute the ven<g ref="char:EOLhyphen"/>geance of the Lord, and the vengeance of his Temple. And let no man prejudice himſelfe or them, and ſay, inſtead of helpers we ſhall have Maſters, and they will have too ſtrong an influence into our Religion and Li<g ref="char:EOLhyphen"/>berty. When as it will be found in that offered Cove<g ref="char:EOLhyphen"/>nant, that they intend not the leaſt confuſion betwixt the Kingdomes and Churches, though the neereſt con<g ref="char:EOLhyphen"/>junction, but to maintain the reſpective liberties and priviledges of both Nations, and preſſe nothing but what our ſelves have propounded, The word of God as
+<pb n="7" facs="tcp:137578:4"/>the rule of our and their reformation. And here I can not omit a paſſage full of meekneſſe and wiſdome that fell from a conſiderable man among them for piety and Learning, Let <hi>Scotland</hi> help to reform <hi>England,</hi> and <hi>England, Scotland.</hi> God hath edged the ſpirits of the Scottiſh Nation more againſt Popery, Prelacie and Superſtition, then the Engliſh, let us help to rid you of them, and mutually receive from you that aſſiſtance which may be requiſite to advancing the purity and power of godlineſſe among us both.</p>
+            <p>It need not be doubted but if we forſake not our own mercy God hath ſtretched out a hand to us to draw us out of the mire both of corruption &amp; confuſion in which we are, let every one therefore in his place ſtudy to pro<g ref="char:EOLhyphen"/>mote this promiſing union, w<hi rend="sup">ch</hi> it is hoped may in time be an example and encouragement to other Proteſtant Churches to joyne them thereto, to the inlargement and eſtabliſhment of the Kingdome of Chriſt, and the diſappointment and deſtruction of his and our Ene<g ref="char:EOLhyphen"/>mies. God hath begun by them, <hi>Hee is our Rock, and his way is perfect.</hi> If therefore any propoſition bee made to you concerning money for the levying and conducting theſe Forces, let us not keep it to periſh with us. I beleeve the deſire will bee modeſt, and en<g ref="char:EOLhyphen"/>forced by that neceſſitie which we have been conſtrain<g ref="char:EOLhyphen"/>ed to bring upon them by the expence they have bin put to in the maintenance of the <hi>Iriſh</hi> Army to which we are ſo deeply ingaged. I hope I may ſafely ſay, they ſeek not yours, but you and their own. Since therefore they that are reaſonably well skilled in computation of our Eng<g ref="char:EOLhyphen"/>liſh affairs, judge it impoſſible, without a Miracle, to ac<g ref="char:EOLhyphen"/>compliſh a Reformation, ſca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cely a preſervation with<g ref="char:EOLhyphen"/>out
+<pb n="8" facs="tcp:137578:5" rendition="simple:additions"/>out them; let us all ſtrive with earneſtneſſe and expedi<g ref="char:EOLhyphen"/>tion to promote this preſent hopefull ſervice, leſt hereafter upon the return of our calamitie, which in this ſea of miſery that overſpreads us, is like againe to flow upon us, it be ſaid of us, Wee had a Price in our hands. And ſo I beſeech God who hath hitherto ap<g ref="char:EOLhyphen"/>peared in this buſineſſe, to goe on to order and expe<g ref="char:EOLhyphen"/>dite it to the glory of his Name, the eſtabliſhment, reformation and propagation of true Religion, the preſervation and improvement of liberty, that we may live a quiet and a peaceable life, in all godlineſſe and honeſty.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London</hi> for <hi>Samuel Gellibrand,</hi> at the Brazen Serpent in Pauls Church-yard, 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
